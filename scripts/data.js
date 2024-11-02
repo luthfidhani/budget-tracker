@@ -18,7 +18,11 @@ const formLinks = {
         },
         {
             title: "📊 Dashboard",
-            link: "https://docs.google.com/spreadsheets/d/1dFfqRT4llj58XH25xjrpRPxgMGBR_DJaFBTqKmqaW80/edit?usp=sharing"
+            link: "https://lookerstudio.google.com/u/0/reporting/995dfede-c142-4e64-b35e-17e264402edd"
+        },
+        {
+            title: "📝 Data",
+            link: "https://docs.google.com/spreadsheets/d/1dFfqRT4llj58XH25xjrpRPxgMGBR_DJaFBTqKmqaW80"
         }
     ]
 }
